@@ -1,5 +1,5 @@
 # Hi there, I'm George - aka Tsekis🍀 👋 
-Hey, I am a Python Developer, with over 5 years of experience. Over the last two years, I have worked with more than 500 clients and all my bots have served over 100,000+ members.
+Hi there, I'm George, I am a Python Developer, with over 5 years of experience. Over the last two years, I have worked with more than 500 clients and all my bots have served over 100,000+ members.
 ![Design and Development](https://github.com/drtsekis/drtsekis/blob/main/TsekisGif.gif)
 
 ## I'm a Python Developer, Specialized in Discord Bots!!
