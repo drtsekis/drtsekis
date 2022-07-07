@@ -1,9 +1,10 @@
 # Hi there, I'm George - aka Tsekis🍀 👋 
+Hey, I am a Python Developer, with over 5 years of experience. Over the last two years, I have worked with more than 500 clients and my bots have served over 100,000+ members.
 ![Design and Development](https://github.com/drtsekis/drtsekis/blob/main/TsekisGif.gif)
 
 ## I'm a Python Developer, Specialized in Discord Bots!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Let me help you bring your ideas to life!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about web3
