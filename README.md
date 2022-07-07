@@ -1,7 +1,5 @@
 # Hi there, I'm George - aka Tsekis🍀 👋 
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/344/discord-new-logo.png" style="padding-right:10px;" />[Add me on discord: Tsekis🍀#0001](https://discordapp.com/users/424268240643031062)
-
 ## I'm a Python Developer, Specialized in Discord Bots!!
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
@@ -13,20 +11,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+<img align="left" width="26px" src="https://img.icons8.com/color/344/discord-new-logo.png" style="padding-right:10px;" />[Add me on discord: Tsekis🍀#0001](https://discordapp.com/users/424268240643031062)
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
