@@ -46,5 +46,5 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 ---
 
 ## Examples of Work/Portofolio
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_1.jpg" width="250" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_1.jpg" width="512" >
 
