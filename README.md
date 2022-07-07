@@ -50,6 +50,16 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 ## Examples of Work/Portofolio
 - 🤖 Below you will see some features that some of my bots have, but that doesn't mean I can't add more features. As I mentioned before "Let me help you bring your ideas to life"!.
 <br/>
+- Game server status with graph (this one is for fivem).
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/vt0UdIk4Rkmorchdmjblzg.png" width="600" >
+- FiveM Server Scoreboard (with Steam names and FiveM-ID).
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_96.png" width="600" >
+- Search player from discord with FiveM-ID.
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_97.png" width="600" >
+- Server Grand Opening Countdown.
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_99.png" width="600" >
+- Discord Simple Application.
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_95.png" width="600" >
 - Invite Leaderboard.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_1.jpg" width="600" >
 - Giveaway Command.
@@ -80,16 +90,6 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Untitled-1.png" width="600" >
 - Check your activity (on/off duty time) with cards.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/profile.png" width="600" >
-- Game server status with graph (this one is for fivem).
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/vt0UdIk4Rkmorchdmjblzg.png" width="600" >
-- FiveM Server Scoreboard (with Steam names and FiveM-ID).
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_96.png" width="600" >
-- Search player from discord with FiveM-ID.
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_97.png" width="600" >
-- Server Grand Opening Countdown.
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_99.png" width="600" >
-- Discord Simple Application.
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_95.png" width="600" >
 
 
 - 🐌 The above photos are from the bots that I made some clients, specifically the servers: Venom Roplay, Drip Roleplay, Inferno Roleplay (FiveM Servers).
