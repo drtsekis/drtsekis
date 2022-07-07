@@ -55,7 +55,6 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 - Ticket System Logs.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_12.png" width="600" >
 - Watch Youtube with friends in discord channel.
-<img src="https://github.com/drtsekis/drtsekis/blob/main/Screenshot_13.png" width="600" >
 - Ticket System
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_19.png" width="600" >
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_2.png" width="600" >
