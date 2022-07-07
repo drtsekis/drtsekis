@@ -1,6 +1,5 @@
-![Design and Development](https://github.com/drtsekis/drtsekis/blob/main/TsekisGif.gif)
-
 # Hi there, I'm George - aka Tsekis🍀 👋 
+![Design and Development](https://github.com/drtsekis/drtsekis/blob/main/TsekisGif.gif)
 
 ## I'm a Python Developer, Specialized in Discord Bots!!
 
