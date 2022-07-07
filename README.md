@@ -9,6 +9,8 @@
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
 
+---
+
 ### Connect with me:
 
 <img align="left" width="26px" src="https://img.icons8.com/color/344/discord-new-logo.png" style="padding-right:10px;" />[Add me on discord: Tsekis🍀#0001](https://discordapp.com/users/424268240643031062)
