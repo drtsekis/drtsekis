@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+![Design and Development](https://github.com/drtsekis/drtsekis/blob/main/TsekisGif.gif)
 
 # Hi there, I'm George - aka Tsekis🍀 👋 
 
