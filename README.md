@@ -12,7 +12,7 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 
 ---
 
-### Connect with me:
+### Contact with me:
 
 <img align="left" width="26px" src="https://img.icons8.com/color/344/discord-new-logo.png" style="padding-right:10px;" />[Add me on discord: Tsekis🍀#0001](https://discordapp.com/users/424268240643031062)
 
@@ -82,9 +82,9 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/profile.png" width="600" >
 - Game server status with graph (this one is for fivem).
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/vt0UdIk4Rkmorchdmjblzg.png" width="600" >
-- Search player with fivem-id from discord.
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_96.png" width="600" >
 - FiveM Server Scoreboard (with steam names and fivem-ids).
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_96.png" width="600" >
+- Search player with fivem-id from discord.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_97.png" width="600" >
 - Server Grand Opening Countdown.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_99.png" width="600" >
