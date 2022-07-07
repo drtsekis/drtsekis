@@ -47,4 +47,24 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 
 ## Examples of Work/Portofolio
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_1.jpg" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_2.jpg" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_12.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/Screenshot_13.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_19.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_2.jpg" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_2.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_24png.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_3.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_4.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_5png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_6png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_7png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_8png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_9png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Untitled-1.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/profile.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/vt0UdIk4Rkmorchdmjblzg.png" width="600" >
+
+
+
 
