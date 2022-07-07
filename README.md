@@ -83,9 +83,9 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 - Game server status with graph (this one is for fivem).
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/vt0UdIk4Rkmorchdmjblzg.png" width="600" >
 - 
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_97.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_96.png" width="600" >
 - 
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_98.png" width="600" >
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_97.png" width="600" >
 - 
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_99.png" width="600" >
 
