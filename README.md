@@ -1,10 +1,6 @@
 # Hi there, I'm George - aka Tsekis🍀 👋 
 
----
-
 ## I'm a Python Developer, Specialized in Discord Bots!!
-
----
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
