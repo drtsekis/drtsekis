@@ -46,7 +46,7 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 ---
 
 ## Examples of Work/Portofolio
-- 🔭 Below you will see some features that some of my bots have, but that doesn't mean I can't add more features. As I mentioned before "Let me help you bring your ideas to life"!.
+- 🤖 Below you will see some features that some of my bots have, but that doesn't mean I can't add more features. As I mentioned before "Let me help you bring your ideas to life"!.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_1.jpg" width="600" >
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_2.jpg" width="600" >
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_12.png" width="600" >
