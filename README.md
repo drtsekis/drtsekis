@@ -58,29 +58,29 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_12.png" width="600" >
 - Watch Youtube with friends in discord channel.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_19.png" width="600" >
-- Ticket System
+- Ticket System.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_2.png" width="600" >
-- Ticket Priority Selection 
+- Ticket Priority Selection .
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_24png.png" width="600" >
-- Social Media Links (Buttons)
+- Social Media Links (Buttons).
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_3.png" width="600" >
-- Ticket System Topic Selection
+- Ticket System Topic Selection.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_4.png" width="600" >
-- Selected Ticket Priority
+- Selected Ticket Priority.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_5.png" width="600" >
-- Reaction Role (Buttons)
+- Reaction Role (Buttons).
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_6.png" width="600" >
-- External Links (Buttons)
+- External Links (Buttons).
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_7.png" width="600" >
-- Rate Ticket before close
+- Rate Ticket before close.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_8.png" width="600" >
-- Ticket System Rating with stars
+- Ticket System Rating with stars.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_9.png" width="600" >
-- On/Off Duty Menu for your staff (there are many upgrades coming to this)
+- On/Off Duty Menu for your staff (there are many upgrades coming to this).
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Untitled-1.png" width="600" >
 - Check your activity (on/off duty time) with cards.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/profile.png" width="600" >
-- Game server status with graph (this one is for fivem)
+- Game server status with graph (this one is for fivem).
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/vt0UdIk4Rkmorchdmjblzg.png" width="600" >
 
 - 🐌 The above photos are from the bots that I made some clients, specifically the servers: Venom Roplay, Drip Roleplay, Inferno Roleplay (FiveM Servers).
