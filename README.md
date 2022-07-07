@@ -81,6 +81,8 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 - Game server status with graph (this one is for fivem)
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/vt0UdIk4Rkmorchdmjblzg.png" width="600" >
 
+- 🔐 I will often post different functions, I just have to keep some functions hidden, the hidden functions will be available only for clients.
+
 
 
 
