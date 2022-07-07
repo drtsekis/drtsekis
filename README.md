@@ -1,6 +1,6 @@
 # Hi there, I'm George - aka Tsekis🍀 👋 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][Add me on discord](https://discordapp.com/users/424268240643031062)
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />[Add me on discord](https://discordapp.com/users/424268240643031062)
 
 ## I'm a Python Developer, Specialized in Discord Bots!!
 
