@@ -48,13 +48,16 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 ## Examples of Work/Portofolio
 - 🤖 Below you will see some features that some of my bots have, but that doesn't mean I can't add more features. As I mentioned before "Let me help you bring your ideas to life"!.
 <br/>
-- Invite Leaderboard
+- Invite Leaderboard.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_1.jpg" width="600" >
+- Giveaway Command.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_2.jpg" width="600" >
+- Ticket System Logs.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_12.png" width="600" >
+- Watch Youtube with friends in discord channel.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/Screenshot_13.png" width="600" >
+- Ticket System
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_19.png" width="600" >
-<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_2.jpg" width="600" >
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_2.png" width="600" >
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_24png.png" width="600" >
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_3.png" width="600" >
