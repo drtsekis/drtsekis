@@ -88,6 +88,8 @@ Hi there, I'm George, I am a Python Developer, with over 5 years of experience. 
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_97.png" width="600" >
 - Server Grand Opening Countdown.
 <img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_99.png" width="600" >
+- Discord Simple Application.
+<img src="https://github.com/drtsekis/drtsekis/blob/main/forgithub/Screenshot_95.png" width="600" >
 
 
 - 🐌 The above photos are from the bots that I made some clients, specifically the servers: Venom Roplay, Drip Roleplay, Inferno Roleplay (FiveM Servers).
