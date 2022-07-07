@@ -1,3 +1,5 @@
+![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+
 # Hi there, I'm George - aka Tsekis🍀 👋 
 
 ## I'm a Python Developer, Specialized in Discord Bots!!
