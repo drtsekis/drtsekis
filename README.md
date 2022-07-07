@@ -47,6 +47,6 @@
 
 ---
 
-## Examples of Work
+## Examples of Work/Portofolio
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
