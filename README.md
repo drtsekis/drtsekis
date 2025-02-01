@@ -27,11 +27,12 @@ I am a Python Developer and Verified Discord Bot Developer with over 5 years of 
 ### 📈 GitHub Stats:
 
 <img align="left" alt="drtsekis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=drtsekis&show_icons=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
-<br>
-</br>
+
 ---
+
 ## 🎨 Examples of My Work:
 
+<!-- Here you can showcase specific projects with images and brief descriptions -->
 - 🤖 **Dynamic Bot Solutions**: From automation tools to data-driven applications, I build Discord bots that offer more than just moderation—they provide enriching user experiences.
 
 ---
