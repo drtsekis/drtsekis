@@ -1,6 +1,6 @@
 # Hi there, I'm George - aka Tsekis🍀 👋
 
-I am a Python Developer and Verified Discord Bot Developer with over 5 years of experience, currently enriching my skillset through studies in Electrical and Computer Engineering. My journey in tech is inspired by pioneering figures like Nikola Tesla and contemporary leaders like Guido van Rossum, driving me to explore the convergence of software and hardware to innovate solutions that impact communities.
+I am a Python Developer and Verified Discord Bot Developer with over 5 years of experience, currently enriching my skillset through studies in Electrical and Computer Engineering.
 
 ![Design and Development](https://github.com/drtsekis/drtsekis/blob/main/TsekisGif.gif)
 
